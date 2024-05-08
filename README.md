@@ -7,9 +7,9 @@
 - 📫 How to reach me:
   [![Email](https://img.shields.io/badge/Email-narayan.ambarish%40gmail.com-brightgreen?style=flat&logo=gmail&logoColor=white)](mailto:narayan.ambarish@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ambarish%20Narayan-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anarayanut/)
-
+ 
+ ## Tools and Technologies
 <p>
-  ## Tools and Technologies
   <!-- Programming Languages -->
   <a href="https://python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /></a>
   <a href="https://www.r-project.org/" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" /></a>
