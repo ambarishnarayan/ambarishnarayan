@@ -10,27 +10,25 @@
 
 ## Technologies & Tools
 <p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
-  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-Teradata-336791?style=flat-square&logo=teradata&logoColor=white" alt="Teradata"/>
-  <img src="https://img.shields.io/badge/-Redshift-EE4B2B?style=flat-square&logo=amazonaws&logoColor=white" alt="Redshift"/>
-  <img src="https://img.shields.io/badge/-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white" alt="Hadoop"/>
-  <img src="https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Apache Airflow"/>
-  <img src="https://img.shields.io/badge/-Dataiku-FF6B00?style=flat-square&logo=dataiku&logoColor=white" alt="Dataiku"/>
-  <img src="https://img.shields.io/badge/-Alteryx-00AAFF?style=flat-square&logo=alteryx&logoColor=white" alt="Alteryx"/>
-  <img src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/-NLTK-3776AB?style=flat-square&logo=nltk&logoColor=white" alt="NLTK"/>
-  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark"/>
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk"/>
+  <a href="https://www.python.org"><img src="https://cdn.iconscout.com/icon/free/png-48/python-2-226051.png" alt="Python"/></a>
+  <a href="https://www.r-project.org"><img src="https://cdn.iconscout.com/icon/free/png-48/r-5-283170.png" alt="R"/></a>
+  <a href="https://www.mysql.com"><img src="https://cdn.iconscout.com/icon/free/png-48/mysql-19-1174939.png" alt="MySQL"/></a>
+  <a href="https://www.mongodb.com"><img src="https://cdn.iconscout.com/icon/free/png-48/mongodb-3-1175138.png" alt="MongoDB"/></a>
+  <a href="https://www.teradata.com"><img src="https://cdn.iconscout.com/icon/free/png-48/teradata-362937.png" alt="Teradata"/></a>
+  <a href="https://aws.amazon.com/redshift/"><img src="https://cdn.iconscout.com/icon/free/png-48/amazon-redshift-362915.png" alt="Redshift"/></a>
+  <a href="https://hadoop.apache.org"><img src="https://cdn.iconscout.com/icon/free/png-48/hadoop-2752175-2284937.png" alt="Hadoop"/></a>
+  <a href="https://airflow.apache.org"><img src="https://cdn.iconscout.com/icon/free/png-48/apache-airflow-362937.png" alt="Apache Airflow"/></a>
+  <a href="https://www.dataiku.com"><img src="https://cdn.iconscout.com/icon/free/png-48/dataiku-362915.png" alt="Dataiku"/></a>
+  <a href="https://www.alteryx.com"><img src="https://cdn.iconscout.com/icon/free/png-48/alteryx-362915.png" alt="Alteryx"/></a>
+  <a href="https://keras.io"><img src="https://cdn.iconscout.com/icon/free/png-48/keras-362924.png" alt="Keras"/></a>
+  <a href="https://www.nltk.org"><img src="https://cdn.iconscout.com/icon/free/png-48/nltk-362915.png" alt="NLTK"/></a>
+  <a href="https://www.tableau.com"><img src="https://cdn.iconscout.com/icon/free/png-48/tableau-362915.png" alt="Tableau"/></a>
+  <a href="https://powerbi.microsoft.com"><img src="https://cdn.iconscout.com/icon/free/png-48/power-bi-362937.png" alt="Power BI"/></a>
+  <a href="https://spark.apache.org"><img src="https://cdn.iconscout.com/icon/free/png-48/apache-spark-362915.png" alt="PySpark"/></a>
+  <a href="https://aws.amazon.com"><img src="https://cdn.iconscout.com/icon/free/png-48/aws-1869025-1583149.png" alt="AWS"/></a>
+  <a href="https://azure.microsoft.com"><img src="https://cdn.iconscout.com/icon/free/png-48/azure-1868974-1583144.png" alt="Azure"/></a>
+  <a href="https://www.splunk.com"><img src="https://cdn.iconscout.com/icon/free/png-48/splunk-362915.png" alt="Splunk"/></a>
 </p>
-
 
 
 ## Key Projects
