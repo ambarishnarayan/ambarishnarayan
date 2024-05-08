@@ -16,11 +16,9 @@
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
   <img src="https://img.icons8.com/color/48/000000/teradata.png" alt="Teradata"/>
-  <img src="https://img.icons8.com/color/48/000000/snowflake.png" alt="Snowflake"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-redshift.png" alt="Redshift"/>
   <img src="https://img.icons8.com/color/48/000000/apache-hadoop.png" alt="Hadoop"/>
   <img src="https://img.icons8.com/color/48/000000/apache-airflow.png" alt="Apache Airflow"/>
-  <img src="https://img.icons8.com/color/48/000000/dataiku.png" alt="Dataiku"/>
   <img src="https://img.icons8.com/color/48/000000/alteryx.png" alt="Alteryx"/>
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/>
@@ -31,8 +29,9 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="PySpark"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure-2.png" alt="Azure"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure.png" alt="Azure"/>
   <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk"/>
+  <img src="https://img.icons8.com/color/48/000000/dataiku.png" alt="Dataiku"/>
 </p>
 
 
