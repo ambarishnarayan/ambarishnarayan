@@ -10,13 +10,13 @@
 
 ## Technologies & Tools
 <p>
-  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="PowerBI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/r-programming.png" alt="R"/>
+  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
+  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-azure-2.png" alt="Azure"/>
 </p>
 
 ## Key Projects
