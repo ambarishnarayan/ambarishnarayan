@@ -14,7 +14,7 @@
   <a href="https://www.r-project.org" target="_blank" rel="noreferrer"><img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" width="40" height="40"/></a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://aws.amazon.com/redshift" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/aws-redshift.svg" alt="Redshift" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/redshift" target="_blank" rel="noreferrer"><img src="https://www.pngwing.com/en/free-png-azeoq" alt="Redshift" width="40" height="40"/></a>
   <a href="https://hadoop.apache.org" target="_blank" rel="noreferrer"><img src="https://hadoop.apache.org/hadoop-logo.jpg" alt="Hadoop" width="40" height="40"/></a>
   <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"><img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Apache Airflow" width="40" height="40"/></a>
   <a href="https://www.dataiku.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/dataiku.svg" alt="Dataiku" width="40" height="40"/></a>
