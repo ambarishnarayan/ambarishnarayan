@@ -3,7 +3,7 @@
 ## About Me
 - 🎓 Data Scientist/Data Analyst with over 5 years of experience.
 - 🔭 Currently enhancing airline customer experience at United Airlines by evaluating sentiment and forecasting complaint likelihood using Ensemble Models.
-- 🌱 I’m deepening my expertise in Advanced Machine Learning and Natural Language Processing.
+- 🌱 I’m deepening my expertise in Advanced Machine Learning, Natural Language Processing and Gen AI/LLMs
 - 📫 How to reach me:
   [![Email](https://img.shields.io/badge/Email-narayan.ambarish%40gmail.com-brightgreen?style=flat&logo=gmail&logoColor=white)](mailto:narayan.ambarish@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ambarish%20Narayan-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anarayanut/)
