@@ -10,31 +10,25 @@
 
 ## Technologies & Tools
 <p>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
-  <img src="https://img.icons8.com/color/48/000000/r-programming.png" alt="R"/>
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/>
-  <img src="https://img.icons8.com/color/48/000000/teradata.png" alt="Teradata"/>
-  <img src="https://img.icons8.com/color/48/000000/snowflake.png" alt="Snowflake"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-redshift.png" alt="Redshift"/>
-  <img src="https://img.icons8.com/color/48/000000/apache-hadoop.png" alt="Hadoop"/>
-  <img src="https://img.icons8.com/color/48/000000/apache-airflow.png" alt="Apache Airflow"/>
-  <img src="https://img.icons8.com/color/48/000000/dataiku.png" alt="Dataiku"/>
-  <img src="https://img.icons8.com/color/48/000000/alteryx.png" alt="Alteryx"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow"/>
-  <img src="https://img.icons8.com/color/48/000000/keras.png" alt="Keras"/>
-  <img src="https://img.icons8.com/color/48/000000/natural-language-processing.png" alt="NLTK"/>
-  <img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-power-bi.png" alt="Power BI"/>
-  <img src="https://img.icons8.com/color/48/000000/apache-spark.png" alt="PySpark"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-azure-2.png" alt="Azure"/>
-  <img src="https://img.icons8.com/color/48/000000/splunk.png" alt="Splunk"/>
+  <a href="https://www.python.org"><img src="https://cdn.iconscout.com/icon/free/png-48/python-2-226051.png" alt="Python"/></a>
+  <a href="https://www.r-project.org"><img src="https://cdn.iconscout.com/icon/free/png-48/r-5-283170.png" alt="R"/></a>
+  <a href="https://www.mysql.com"><img src="https://cdn.iconscout.com/icon/free/png-48/mysql-19-1174939.png" alt="MySQL"/></a>
+  <a href="https://www.mongodb.com"><img src="https://cdn.iconscout.com/icon/free/png-48/mongodb-3-1175138.png" alt="MongoDB"/></a>
+  <a href="https://www.teradata.com"><img src="https://cdn.iconscout.com/icon/free/png-48/teradata-362937.png" alt="Teradata"/></a>
+  <a href="https://aws.amazon.com/redshift/"><img src="https://cdn.iconscout.com/icon/free/png-48/amazon-redshift-362915.png" alt="Redshift"/></a>
+  <a href="https://hadoop.apache.org"><img src="https://cdn.iconscout.com/icon/free/png-48/hadoop-2752175-2284937.png" alt="Hadoop"/></a>
+  <a href="https://airflow.apache.org"><img src="https://cdn.iconscout.com/icon/free/png-48/apache-airflow-362937.png" alt="Apache Airflow"/></a>
+  <a href="https://www.dataiku.com"><img src="https://cdn.iconscout.com/icon/free/png-48/dataiku-362915.png" alt="Dataiku"/></a>
+  <a href="https://www.alteryx.com"><img src="https://cdn.iconscout.com/icon/free/png-48/alteryx-362915.png" alt="Alteryx"/></a>
+  <a href="https://keras.io"><img src="https://cdn.iconscout.com/icon/free/png-48/keras-362924.png" alt="Keras"/></a>
+  <a href="https://www.nltk.org"><img src="https://cdn.iconscout.com/icon/free/png-48/nltk-362915.png" alt="NLTK"/></a>
+  <a href="https://www.tableau.com"><img src="https://cdn.iconscout.com/icon/free/png-48/tableau-362915.png" alt="Tableau"/></a>
+  <a href="https://powerbi.microsoft.com"><img src="https://cdn.iconscout.com/icon/free/png-48/power-bi-362937.png" alt="Power BI"/></a>
+  <a href="https://spark.apache.org"><img src="https://cdn.iconscout.com/icon/free/png-48/apache-spark-362915.png" alt="PySpark"/></a>
+  <a href="https://aws.amazon.com"><img src="https://cdn.iconscout.com/icon/free/png-48/aws-1869025-1583149.png" alt="AWS"/></a>
+  <a href="https://azure.microsoft.com"><img src="https://cdn.iconscout.com/icon/free/png-48/azure-1868974-1583144.png" alt="Azure"/></a>
+  <a href="https://www.splunk.com"><img src="https://cdn.iconscout.com/icon/free/png-48/splunk-362915.png" alt="Splunk"/></a>
 </p>
-
 
 
 ## Key Projects
