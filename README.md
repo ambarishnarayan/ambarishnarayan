@@ -15,7 +15,7 @@
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
   <a href="https://aws.amazon.com/redshift" target="_blank" rel="noreferrer"><img src="https://en.m.wikipedia.org/wiki/File:Amazon-Redshift-Logo.svg" alt="Redshift" width="40" height="40"/></a>
-  <a href="https://hadoop.apache.org" target="_blank" rel="noreferrer"><img src="https://hadoop.apache.org/hadoop-logo.jpg" alt="Hadoop" width="40" height="40"/></a>
+  <a href="https://hadoop.apache.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/hadoop-distributed-file-system.png alt="Hadoop" width="40" height="40"/></a>
   <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"><img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Apache Airflow" width="40" height="40"/></a>
   <a href="https://www.dataiku.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/dataiku.svg" alt="Dataiku" width="40" height="40"/></a>
   <a href="https://www.alteryx.com" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/alteryx.svg" alt="Alteryx" width="40" height="40"/></a>
@@ -30,6 +30,7 @@
   <a href="https://www.gnu.org/software/bash" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Shell Scripting" width="40" height="40"/></a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
   <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/iso_c/iso_c-icon.svg" alt="C" width="40" height="40"/></a>
+</p>
 
   ## Technologies & Tools
 <p>
